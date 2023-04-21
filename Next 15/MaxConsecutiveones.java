@@ -1,6 +1,4 @@
-// https://leetcode.com/problems/max-consecutive-ones/
-
-class MaxConsecutiveones {
+class MaxWater {
     public int maxArea(int[] ht) {
         int max = 0;
         int r = ht.length-1;
