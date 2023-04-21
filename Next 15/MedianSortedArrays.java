@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+
 class MedianSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n1 = nums1.length;
