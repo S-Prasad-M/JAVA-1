@@ -4,7 +4,6 @@ public class ArrayListExample {
     public static void main(String[] args) {
         // Create an ArrayList
         ArrayList<Integer> arrayList = new ArrayList<>();
-
         // Add elements to the ArrayList
         arrayList.add(5);
         arrayList.add(10);

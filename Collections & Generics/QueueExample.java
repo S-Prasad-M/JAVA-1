@@ -11,7 +11,6 @@ public class QueueExample {
         queue.offer("Banana");
         queue.offer("Cherry");
         queue.offer("Durian");
-
         // Print the elements of the Queue
         System.out.println("Queue: " + queue);
 

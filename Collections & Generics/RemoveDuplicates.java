@@ -13,7 +13,6 @@ public class RemoveDuplicates {
         originalList.add("Apple");
 
         List<String> uniqueList = new ArrayList<>(new HashSet<>(originalList));
-
         System.out.println("Original List: " + originalList);
         System.out.println("List without Duplicates: " + uniqueList);
     }

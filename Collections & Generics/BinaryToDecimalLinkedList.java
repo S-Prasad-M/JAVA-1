@@ -5,7 +5,6 @@ public class BinaryToDecimalLinkedList {
     public static void main(String[] args) {
         // Create a LinkedList to store the binary digits
         LinkedList<Integer> binaryDigits = new LinkedList<>();
-
         // Add binary digits to the LinkedList (in reverse order)
         binaryDigits.add(1);
         binaryDigits.add(0);

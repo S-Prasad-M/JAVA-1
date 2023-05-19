@@ -8,7 +8,6 @@ public class HashMapExample {
         studentGrades.put("Charlie", 78);
         studentGrades.put("David", 95);
         studentGrades.put("Eva", 88);
-
         // Find the student with the highest grade
         String highestGradeStudent = "";
         int highestGrade = Integer.MIN_VALUE;

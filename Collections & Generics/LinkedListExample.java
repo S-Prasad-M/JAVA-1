@@ -10,7 +10,6 @@ public class LinkedListExample {
         linkedList.add("Banana");
         linkedList.add("Cherry");
         linkedList.add("Durian");
-
         // Print the elements of the LinkedList
         System.out.println("LinkedList: " + linkedList);
 

@@ -4,7 +4,6 @@ import java.util.*;
 public class FrequencyExample {
     public static void main(String[] args) {
         List<String> words = Arrays.asList("apple", "banana", "apple", "orange", "banana", "apple", "grape");
-
         // Count the frequency of each word using a map
         Map<String, Integer> frequencyMap = new HashMap<>();
         for (String word : words) {

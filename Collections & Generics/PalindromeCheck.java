@@ -10,7 +10,6 @@ public class PalindromeCheck {
             char c = input.charAt(i);
             stack.push(c);
         }
-
         // Pop each character from the stack and append it to the StringBuilder
         while (!stack.isEmpty()) {
             char c = stack.pop();
