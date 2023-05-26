@@ -1,7 +1,7 @@
 import java.io.FileReader;
 import java.io.IOException;
 
-public class WordCountExample {
+public class WordCount{
     public static void main(String[] args) {
         // Specify the file path
         String filePath = "file.txt";
